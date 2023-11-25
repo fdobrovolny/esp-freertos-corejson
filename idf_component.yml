@@ -1,0 +1,10 @@
+version: "0.0.1"
+license: "MIT"
+maintainer: Filip Dobrovolny <dobrovolny.filip@gmail.com>
+description: "FreeRTOS CoreJSON for ESP-IDF"
+url: "https://github.com/fdobrovolny/esp-freertos-corejson"
+repository: https://github.com/fdobrovolny/esp-freertos-corejson
+dependencies:
+  idf:
+    version: ">=4.3"
+    require: public
